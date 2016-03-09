@@ -1,0 +1,61 @@
+body * {
+	font-family: "Droid_Sans_Arabic", System;
+}
+* {
+	outline: none;
+}
+a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+body {
+	background: #fefefe;
+	color: #555;
+}
+.price {
+	color: #1abc9c;
+}
+.ad {
+	color: #1abc9c;
+}
+.font19 {
+	font-size: 18px;
+}
+.wp-img {
+	padding: 25px;
+	background: #21759b;
+	color: #fff;
+}
+.contact-us {
+	border-top: 1px solid #eee;
+	padding: 30px;
+}
+.panel {
+	padding: 20px;
+	border-radius: 5px; 
+}
+.margin50 {
+	margin-right: 50px;
+	color: #555;
+}
+.fa-5x {
+	font-size: 150px;
+	color: #21759b;
+}
+.brand {
+	font-size: 24px;
+}
+.x {
+	margin-top: 60px;
+}
+.text-muted {
+	color: #555;
+}
+.divide {
+	margin-top: 50px;
+	border-radius: 3px;
+	margin-bottom: 50px;
+	background: #21759b;
+	padding: 20px;
+	color: #fff;
+}

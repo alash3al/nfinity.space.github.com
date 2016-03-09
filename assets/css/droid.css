@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "Droid_Sans_Arabic";
+	src: url('//localhost/assets/fonts/DroidSansArabic.eot');
+	src: url('//localhost/assets/fonts/DroidSansArabic.eot?#iefix') format('embedded-opentype'),
+	url('//localhost/assets/fonts/DroidSansArabic.svg#Droid Sans Arabic') format('svg'),
+	url('//localhost/assets/fonts/DroidSansArabic.woff') format('woff'),
+	url('//localhost/assets/fonts/DroidSansArabic.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
